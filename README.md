@@ -33,9 +33,10 @@ I build software across automation, full-stack development, and quantitative res
 
 ## A Bit About Me
 
-I've been rowing competitively for over eight years, logging more than 25 million meters. I competed at the Head of the Charles in a Varsity 8+, rowed with Bucknell Men's Club Crew, and trained with Potomac Boat Club's High-Performance Program.
-
-Outside of engineering and rowing, I enjoy following financial markets and exploring quantitative trading strategies.
+- **Rowing:** Over eight years of competitive rowing and more than 25 million lifetime meters.
+- **Competition:** Competed at the Head of the Charles Regatta in a Varsity 8+.
+- **Teams:** Former member of Bucknell Men's Club Crew and Potomac Boat Club's High-Performance Program.
+- **Interests:** Financial markets, quantitative trading strategies, and software engineering.
 
 ---
 
