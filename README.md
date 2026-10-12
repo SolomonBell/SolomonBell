@@ -8,15 +8,15 @@ I build software across automation, full-stack development, and quantitative res
 
 ## What I'm Working On
 
-- **Reliable Storage — Software Engineering**
+- **Reliable Storage — Software Engineering**: 
   Since April 2026, I've developed and maintained production automation systems supporting seven storage locations across Washington. My work includes booking synchronization, customer intake, Stripe payments, DocuSeal lease signing, and automated SMS and email notifications using Google Apps Script and Pipedream.
   [Moving Vehicle System](https://github.com/SolomonBell/vehicle-script) · [Maintenance Booking System](https://github.com/SolomonBell/maintenance-script)
 
-- **Strategy Foundry — Quantitative Research Platform**
+- **Strategy Foundry — Quantitative Research Platform**: 
   Turns natural-language trading ideas into algorithmic strategies, backtests them on QuantConnect LEAN, and scores the results against a benchmark. Written in Python with Docker, the Anthropic Claude API, Pydantic, and pytest.
   [Repository](https://github.com/SolomonBell/strategy-foundry)
 
-- **Flashcards Platform — Full-Stack Application**
+- **Flashcards Platform — Full-Stack Application**: 
   A multi-user spaced-repetition study platform with shared decks, AI-assisted grading and card generation, session analytics, and CSV export. Built in JavaScript with a Node.js AI proxy and Supabase.
   [Repository](https://github.com/SolomonBell/flashcard-platform) · [firststepstudy.com](https://firststepstudy.com)
 
